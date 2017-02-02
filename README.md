@@ -1,2 +1,2 @@
 # onedrive-sync
-.NET core linux compatable application.
+.NET core linux compatible application.
