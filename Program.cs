@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace OneDriveSync
+﻿namespace OneDriveSync
 {
     public class Program
     {

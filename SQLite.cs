@@ -2,7 +2,7 @@ using System;
 
 using Microsoft.EntityFrameworkCore;
 
-namespace OneDriveSync.SQLite
+namespace OneDriveSync
 {
     public enum ItemType
     {
