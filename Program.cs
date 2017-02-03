@@ -1,12 +1,24 @@
 ﻿using System;
 
-namespace ConsoleApplication
+namespace OneDriveSync
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Parse command line arguments
+
+            // Load configuration
+
+            // Initialise OneDrive API
+
+            // Open synchronisation database.
+
+            // Initialise synchronisation engine.
+
+            // Perform synchronisation.
+
+            // Monitor changes and synchronisation.
         }
     }
 }
