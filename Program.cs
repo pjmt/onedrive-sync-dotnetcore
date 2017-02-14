@@ -5,6 +5,7 @@
         public static void Main(string[] args)
         {
             // Parse command line arguments
+            var results = CommandLine.Parser.Default.ParseArguments<Options>(args);
 
             // Load configuration
 

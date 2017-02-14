@@ -10,7 +10,8 @@
       "version": "1.1.0",
       "type": "build"
     },
-    "Newtonsoft.Json": "9.0.1"
+    "Newtonsoft.Json": "9.0.1",
+    "CommandLineParser": "2.1.1-beta"
   },
   "frameworks": {
     "netcoreapp1.1": {
